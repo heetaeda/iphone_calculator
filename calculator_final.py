@@ -364,52 +364,6 @@ class WindowClass(QMainWindow, from_class):
         self.operator_clear_flag = False 
 
 
-    '''# 초기화 버튼 누르기
-    def clear_btn_Clicked(self):
-        if self.is_init == True and self.digit_result == '0':  # 계산기를 실행한 초기 상태에서 클리어 버튼 누르면
-            return  # 그대로 건너 뜀
-
-        self.digit_result = '0'
-        self.result_screen.setText(str(self.digit_result))  # 우선 화면에 0 을 띄워주고
-        self.clear_btn.setText('AC')  # 'AC' 로 글자 초기화
-
-        # 연산자 누른후 = 누른 상태에서 리셋 버튼 누르면 모두 초기화
-        if self.equal_cnt != 0:
-            self.reset_calculator()  # 계산기를 초기화
-            self.btn_color_Reset()  # 연산자 버튼 색깔도 초기화
-
-        if len(self.calc_list) == 0:  # 초기 상태에서 연산자를 누르지 않고 처음 값만 입력하면 calc_list 에 들어가지 않음. 연산자를 눌러야 값이 들어가기 때문
-            self.reset_calculator()  # 해당 함수에서 clear 리셋과 관련된 모든 cnt 변수 초기화됨.
-            self.digit_result = '0'
-            
-        else:  # 초기 상태가 아닌 최소 연산자 하나가 눌려서 calc_list 에 값이 저장되어 있을 때, calc_list_copy[-1] = '+', '-', '*', '/' 중 하나
-            btn_status_dict = {'+' : 'self.plus_color_changed', '-' : 'self.minus_color_changed',
-                                        '*' : 'self.multiply_color_changed', '/' : 'self.divide_color_changed'}
-            
-            if eval(btn_status_dict[self.calc_list[-1]]) == True and self.operator_clear_flag == False:  # 연산자 눌린 상태에서 clear 버튼 누르면
-                self.operator_clear_flag = True  # 리셋이 현재 한 번 눌러졌다.
-
-            elif eval(btn_status_dict[self.calc_list[-1]]) != True and self.digit_clear_flag == False:  # 숫자가 눌린 상태에서 clear 버튼을 처음 누르면 
-                self.digit_clear_flag = True
-                self.is_new_input = True  # 새롭게 문자열 입력
-                # 마지막에 눌렀던 연산자 버튼 켜주고
-                key_value = self.calc_list[-1]  # 예를 들어 '+' 라면 + 버튼을 다시 켜야 함.
-                self.btn_color_Changed(key_value)  # 생성된 딕셔너리에서 키값을 이용해 값 가져옴.
-                # 이후, 다시 숫자 누르면 원래 색으로 바뀔 것
-
-            elif self.clear_btn.text() == 'AC':  # 두 번 연속 눌리면
-            #elif self.digit_clear_flag == True or self.operator_clear_flag == True:  # 둘 중 하나가 연속으로 두 번 눌리면 모든 게산 과정을 초기화
-                # 근데 왜 숫자 입력한 다음에는 세 번 눌러야 초기화 되는지 모르겠다 ----------------------------------------------------------------------------
-                self.reset_calculator()  # 계산기를 초기화
-                self.btn_color_Reset()  # 연산자 버튼 색깔도 초기화
-                #self.digit_clear_flag = False
-                #self.operator_clear_flag = False
-
-            else:
-                return      
-
-        self.result_screen.setText(str(self.digit_result))'''
-
     # 초기화 버튼 누르기
     def clear_btn_Clicked(self):
         if self.clear_btn.text() == 'AC':  # 초기 상태에 누르거나 두 번 연속 눌리면 계산기 초기화
