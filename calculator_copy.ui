@@ -37,13 +37,13 @@
    </property>
    <property name="styleSheet">
     <string notr="true">QPushButton {
-    background-color: #d3d3d3;  /* 진한 회색 배경 (#a9a9a9는 다크 그레이) */
-    border-radius: 25px;  /* 버튼이 완전히 동그랗게 보이도록 반지름 설정 */
-    width: 50px;  /* 가로 크기 */
-    height: 50px;  /* 세로 크기, 가로와 동일하게 설정 */
-	 color: black;  /* 글자 색상 */
-    font-size: 18px;  /* 글자 크기 */
-    font-weight: bold;  /* 글자 두께를 굵게 */
+    background-color: #d3d3d3;  
+    border-radius: 25px; 
+    width: 50px; 
+    height: 50px;  
+	 color: black; 
+    font-size: 18px; 
+    font-weight: bold; 
 }
 </string>
    </property>
@@ -62,13 +62,13 @@
    </property>
    <property name="styleSheet">
     <string notr="true">QPushButton {
-    background-color: #d3d3d3;  /* 진한 회색 배경 (#a9a9a9는 다크 그레이) */
-    border-radius: 25px;  /* 버튼이 완전히 동그랗게 보이도록 반지름 설정 */
-    width: 50px;  /* 가로 크기 */
-    height: 50px;  /* 세로 크기, 가로와 동일하게 설정 */
-	 color: black;  /* 글자 색상 */
-    font-size: 18px;  /* 글자 크기 */
-    font-weight: bold;  /* 글자 두께를 굵게 */
+    background-color: #d3d3d3; 
+    border-radius: 25px;  
+    width: 50px; 
+    height: 50px; 
+	 color: black;  
+    font-size: 18px;  
+    font-weight: bold; 
 }
 </string>
    </property>
@@ -87,13 +87,13 @@
    </property>
    <property name="styleSheet">
     <string notr="true">QPushButton {
-    background-color: #d3d3d3;  /* 진한 회색 배경 (#a9a9a9는 다크 그레이) */
-    border-radius: 25px;  /* 버튼이 완전히 동그랗게 보이도록 반지름 설정 */
-    width: 50px;  /* 가로 크기 */
-    height: 50px;  /* 세로 크기, 가로와 동일하게 설정 */
-	 color: black;  /* 글자 색상 */
-    font-size: 18px;  /* 글자 크기 */
-    font-weight: bold;  /* 글자 두께를 굵게 */
+    background-color: #d3d3d3;  
+    border-radius: 25px; 
+    width: 50px; 
+    height: 50px;  
+	 color: black;  
+    font-size: 18px;  
+    font-weight: bold;  
 }
 </string>
    </property>
@@ -112,13 +112,13 @@
    </property>
    <property name="styleSheet">
     <string notr="true">QPushButton {
-    background-color: #FFD700;  /* 진한 회색 배경 (#a9a9a9는 다크 그레이) */
-    border-radius: 25px;  /* 버튼이 완전히 동그랗게 보이도록 반지름 설정 */
-    width: 50px;  /* 가로 크기 */
-    height: 50px;  /* 세로 크기, 가로와 동일하게 설정 */
-	 color: white;  /* 글자 색상 */
-    font-size: 27px;  /* 글자 크기 */
-    font-weight: bold;  /* 글자 두께를 굵게 */
+    background-color: #FFD700;  
+    border-radius: 25px;  
+    width: 50px; 
+    height: 50px;  
+	 color: white;  
+    font-size: 27px;  
+    font-weight: bold;  
 }
 </string>
    </property>
@@ -137,13 +137,13 @@
    </property>
    <property name="styleSheet">
     <string notr="true">QPushButton {
-    background-color: #FFD700;  /* 진한 회색 배경 (#a9a9a9는 다크 그레이) */
-    border-radius: 25px;  /* 버튼이 완전히 동그랗게 보이도록 반지름 설정 */
-    width: 50px;  /* 가로 크기 */
-    height: 50px;  /* 세로 크기, 가로와 동일하게 설정 */
-	 color: white;  /* 글자 색상 */
-    font-size: 23px;  /* 글자 크기 */
-    font-weight: bold;  /* 글자 두께를 굵게 */
+    background-color: #FFD700;  
+    border-radius: 25px; 
+    width: 50px; 
+    height: 50px;  
+	 color: white;  
+    font-size: 23px;  
+    font-weight: bold;  
 }
 </string>
    </property>
@@ -162,13 +162,13 @@
    </property>
    <property name="styleSheet">
     <string notr="true">QPushButton {
-    background-color: #a9a9a9;  /* 진한 회색 배경 (#a9a9a9는 다크 그레이) */
-    border-radius: 25px;  /* 버튼이 완전히 동그랗게 보이도록 반지름 설정 */
-    width: 50px;  /* 가로 크기 */
-    height: 50px;  /* 세로 크기, 가로와 동일하게 설정 */
-	 color: white;  /* 글자 색상 */
-    font-size: 24px;  /* 글자 크기 */
-    font-weight: bold;  /* 글자 두께를 굵게 */
+    background-color: #a9a9a9;  
+    border-radius: 25px;  
+    width: 50px; 
+    height: 50px;  
+	 color: white;  
+    font-size: 24px;  
+    font-weight: bold;  
 }
 </string>
    </property>
@@ -187,13 +187,13 @@
    </property>
    <property name="styleSheet">
     <string notr="true">QPushButton {
-    background-color: #a9a9a9;  /* 진한 회색 배경 (#a9a9a9는 다크 그레이) */
-    border-radius: 25px;  /* 버튼이 완전히 동그랗게 보이도록 반지름 설정 */
-    width: 50px;  /* 가로 크기 */
-    height: 50px;  /* 세로 크기, 가로와 동일하게 설정 */
-	 color: white;  /* 글자 색상 */
-    font-size: 24px;  /* 글자 크기 */
-    font-weight: bold;  /* 글자 두께를 굵게 */
+    background-color: #a9a9a9; 
+    border-radius: 25px; 
+    width: 50px;  
+    height: 50px; 
+	 color: white; 
+    font-size: 24px; 
+    font-weight: bold; 
 }
 
 </string>
@@ -213,13 +213,13 @@
    </property>
    <property name="styleSheet">
     <string notr="true">QPushButton {
-    background-color: #a9a9a9;  /* 진한 회색 배경 (#a9a9a9는 다크 그레이) */
-    border-radius: 25px;  /* 버튼이 완전히 동그랗게 보이도록 반지름 설정 */
-    width: 50px;  /* 가로 크기 */
-    height: 50px;  /* 세로 크기, 가로와 동일하게 설정 */
-	 color: white;  /* 글자 색상 */
-    font-size: 24px;  /* 글자 크기 */
-    font-weight: bold;  /* 글자 두께를 굵게 */
+    background-color: #a9a9a9; 
+    border-radius: 25px; 
+    width: 50px; 
+    height: 50px;  
+	 color: white;  
+    font-size: 24px;  
+    font-weight: bold;  
 }
 </string>
    </property>
@@ -238,13 +238,13 @@
    </property>
    <property name="styleSheet">
     <string notr="true">QPushButton {
-    background-color: #FFD700;  /* 진한 회색 배경 (#a9a9a9는 다크 그레이) */
-    border-radius: 25px;  /* 버튼이 완전히 동그랗게 보이도록 반지름 설정 */
-    width: 50px;  /* 가로 크기 */
-    height: 50px;  /* 세로 크기, 가로와 동일하게 설정 */
-	 color: white;  /* 글자 색상 */
-    font-size: 27px;  /* 글자 크기 */
-    font-weight: bold;  /* 글자 두께를 굵게 */
+    background-color: #FFD700; 
+    border-radius: 25px;  
+    width: 50px;  
+    height: 50px;  
+	 color: white; 
+    font-size: 27px;  
+    font-weight: bold;  
 }
 </string>
    </property>
@@ -263,13 +263,13 @@
    </property>
    <property name="styleSheet">
     <string notr="true">QPushButton {
-    background-color: #a9a9a9;  /* 진한 회색 배경 (#a9a9a9는 다크 그레이) */
-    border-radius: 25px;  /* 버튼이 완전히 동그랗게 보이도록 반지름 설정 */
-    width: 50px;  /* 가로 크기 */
-    height: 50px;  /* 세로 크기, 가로와 동일하게 설정 */
-	 color: white;  /* 글자 색상 */
-    font-size: 24px;  /* 글자 크기 */
-    font-weight: bold;  /* 글자 두께를 굵게 */
+    background-color: #a9a9a9;  
+    border-radius: 25px; 
+    width: 50px;  
+    height: 50px; 
+	 color: white; 
+    font-size: 24px;  
+    font-weight: bold; 
 }
 </string>
    </property>
@@ -288,13 +288,13 @@
    </property>
    <property name="styleSheet">
     <string notr="true">QPushButton {
-    background-color: #a9a9a9;  /* 진한 회색 배경 (#a9a9a9는 다크 그레이) */
-    border-radius: 25px;  /* 버튼이 완전히 동그랗게 보이도록 반지름 설정 */
-    width: 50px;  /* 가로 크기 */
-    height: 50px;  /* 세로 크기, 가로와 동일하게 설정 */
-	 color: white;  /* 글자 색상 */
-    font-size: 24px;  /* 글자 크기 */
-    font-weight: bold;  /* 글자 두께를 굵게 */
+    background-color: #a9a9a9;  
+    border-radius: 25px;
+    width: 50px;  
+    height: 50px;  
+	 color: white;  
+    font-size: 24px;  
+    font-weight: bold;  
 }
 </string>
    </property>
@@ -313,13 +313,13 @@
    </property>
    <property name="styleSheet">
     <string notr="true">QPushButton {
-    background-color: #a9a9a9;  /* 진한 회색 배경 (#a9a9a9는 다크 그레이) */
-    border-radius: 25px;  /* 버튼이 완전히 동그랗게 보이도록 반지름 설정 */
-    width: 50px;  /* 가로 크기 */
-    height: 50px;  /* 세로 크기, 가로와 동일하게 설정 */
-	 color: white;  /* 글자 색상 */
-    font-size: 24px;  /* 글자 크기 */
-    font-weight: bold;  /* 글자 두께를 굵게 */
+    background-color: #a9a9a9; 
+    border-radius: 25px; 
+    width: 50px;  
+    height: 50px;  
+	 color: white; 
+    font-size: 24px;  
+    font-weight: bold; 
 }
 </string>
    </property>
@@ -338,13 +338,13 @@
    </property>
    <property name="styleSheet">
     <string notr="true">QPushButton {
-    background-color: #FFD700;  /* 진한 회색 배경 (#a9a9a9는 다크 그레이) */
-    border-radius: 25px;  /* 버튼이 완전히 동그랗게 보이도록 반지름 설정 */
-    width: 50px;  /* 가로 크기 */
-    height: 50px;  /* 세로 크기, 가로와 동일하게 설정 */
-	 color: white;  /* 글자 색상 */
-    font-size: 27px;  /* 글자 크기 */
-    font-weight: bold;  /* 글자 두께를 굵게 */
+    background-color: #FFD700; 
+    border-radius: 25px; 
+    width: 50px;  
+    height: 50px; 
+	 color: white;  
+    font-size: 27px;  
+    font-weight: bold; 
 }
 </string>
    </property>
@@ -363,13 +363,13 @@
    </property>
    <property name="styleSheet">
     <string notr="true">QPushButton {
-    background-color: #a9a9a9;  /* 진한 회색 배경 (#a9a9a9는 다크 그레이) */
-    border-radius: 25px;  /* 버튼이 완전히 동그랗게 보이도록 반지름 설정 */
-    width: 50px;  /* 가로 크기 */
-    height: 50px;  /* 세로 크기, 가로와 동일하게 설정 */
-	 color: white;  /* 글자 색상 */
-    font-size: 24px;  /* 글자 크기 */
-    font-weight: bold;  /* 글자 두께를 굵게 */
+    background-color: #a9a9a9;  
+    border-radius: 25px;  
+    width: 50px; 
+    height: 50px;  
+	 color: white; 
+    font-size: 24px;  
+    font-weight: bold; 
 }
 </string>
    </property>
@@ -388,13 +388,13 @@
    </property>
    <property name="styleSheet">
     <string notr="true">QPushButton {
-    background-color: #a9a9a9;  /* 진한 회색 배경 (#a9a9a9는 다크 그레이) */
-    border-radius: 25px;  /* 버튼이 완전히 동그랗게 보이도록 반지름 설정 */
-    width: 50px;  /* 가로 크기 */
-    height: 50px;  /* 세로 크기, 가로와 동일하게 설정 */
-	 color: white;  /* 글자 색상 */
-    font-size: 24px;  /* 글자 크기 */
-    font-weight: bold;  /* 글자 두께를 굵게 */
+    background-color: #a9a9a9;  
+    border-radius: 25px;  
+    width: 50px; 
+    height: 50px;  
+	 color: white;  
+    font-size: 24px; 
+    font-weight: bold; 
 }
 </string>
    </property>
@@ -413,13 +413,13 @@
    </property>
    <property name="styleSheet">
     <string notr="true">QPushButton {
-    background-color: #a9a9a9;  /* 진한 회색 배경 (#a9a9a9는 다크 그레이) */
-    border-radius: 25px;  /* 버튼이 완전히 동그랗게 보이도록 반지름 설정 */
-    width: 50px;  /* 가로 크기 */
-    height: 50px;  /* 세로 크기, 가로와 동일하게 설정 */
-	 color: white;  /* 글자 색상 */
-    font-size: 24px;  /* 글자 크기 */
-    font-weight: bold;  /* 글자 두께를 굵게 */
+    background-color: #a9a9a9; 
+    border-radius: 25px; 
+    width: 50px;  
+    height: 50px;  
+	 color: white; 
+    font-size: 24px;  
+    font-weight: bold;  
 }
 </string>
    </property>
@@ -438,13 +438,13 @@
    </property>
    <property name="styleSheet">
     <string notr="true">QPushButton {
-    background-color: #FFD700;  /* 진한 회색 배경 (#a9a9a9는 다크 그레이) */
-    border-radius: 25px;  /* 버튼이 완전히 동그랗게 보이도록 반지름 설정 */
-    width: 50px;  /* 가로 크기 */
-    height: 50px;  /* 세로 크기, 가로와 동일하게 설정 */
-	 color: white;  /* 글자 색상 */
-    font-size: 23px;  /* 글자 크기 */
-    font-weight: bold;  /* 글자 두께를 굵게 */
+    background-color: #FFD700; 
+    border-radius: 25px; 
+    width: 50px; 
+    height: 50px; 
+	 color: white;  
+    font-size: 23px; 
+    font-weight: bold;  
 }
 </string>
    </property>
@@ -463,13 +463,13 @@
    </property>
    <property name="styleSheet">
     <string notr="true">QPushButton {
-    background-color: #a9a9a9;  /* 진한 회색 배경 (#a9a9a9는 다크 그레이) */
-    border-radius: 25px;  /* 버튼이 완전히 동그랗게 보이도록 반지름 설정 */
-    width: 50px;  /* 가로 크기 */
-    height: 50px;  /* 세로 크기, 가로와 동일하게 설정 */
-	 color: white;  /* 글자 색상 */
-    font-size: 24px;  /* 글자 크기 */
-    font-weight: bold;  /* 글자 두께를 굵게 */
+    background-color: #a9a9a9;  
+    border-radius: 25px; 
+    width: 50px;  
+    height: 50px;  
+	 color: white; 
+    font-size: 24px;  
+    font-weight: bold; 
 }
 </string>
    </property>
@@ -488,13 +488,13 @@
    </property>
    <property name="styleSheet">
     <string notr="true">QPushButton {
-    background-color: #a9a9a9;  /* 진한 회색 배경 (#a9a9a9는 다크 그레이) */
-    border-radius: 25px;  /* 버튼이 완전히 동그랗게 보이도록 반지름 설정 */
-    width: 50px;  /* 가로 크기 */
-    height: 50px;  /* 세로 크기, 가로와 동일하게 설정 */
-	 color: white;  /* 글자 색상 */
-    font-size: 24px;  /* 글자 크기 */
-    font-weight: bold;  /* 글자 두께를 굵게 */
+    background-color: #a9a9a9;  
+    border-radius: 25px; 
+    width: 50px; 
+    height: 50px;  
+	 color: white; 
+    font-size: 24px; 
+    font-weight: bold; 
 }
 </string>
    </property>
