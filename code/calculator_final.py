@@ -6,7 +6,6 @@ from PyQt5 import uic
 #import sympy as sp
 
 # git test code 
-print('a')
 
 # from_class = uic.loadUiType("/home/yoon/ws/PyQt/src/calculator_copy.ui")[0]
 from_class = uic.loadUiType("../iphone_calculator/ui/calculator_copy.ui")[0]
