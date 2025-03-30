@@ -5,7 +5,8 @@ from PyQt5.QtCore import *
 from PyQt5 import uic
 #import sympy as sp
 
-from_class = uic.loadUiType("/home/yoon/ws/PyQt/src/calculator_copy.ui")[0]
+# from_class = uic.loadUiType("/home/yoon/ws/PyQt/src/calculator_copy.ui")[0]
+from_class = uic.loadUiType("../iphone_calculator/calculator_copy.ui")[0]
 
 # 화면 클래스 구상
 class WindowClass(QMainWindow, from_class):
